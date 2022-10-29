@@ -4,7 +4,7 @@
 
 Clone the repository using
 ```
-git clone https://github.com/sazzeck/Task--TEB-team-
+https://github.com/sazzeck/api
 poetry shell
 poetry install
 ```
