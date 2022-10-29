@@ -1,0 +1,11 @@
+[flake8]
+
+max-complexity = 15
+
+max-function-length = 100
+
+max-line-length = 100
+
+accept-encodings = utf-8
+
+docstring-convention = black
