@@ -9,7 +9,7 @@ poetry shell
 poetry install
 ```
 
-First of all check `.env.example` for Examples on environment variables.
+Check `.env.example` for Examples on environment variables.
 
 ```
 DB_NAME = str:<DATABASE_NAME>
