@@ -3,8 +3,6 @@
 **How to run localy?**
 
 Clone the repository using
-
-Clone the repository using
 ```
 git clone https://github.com/sazzeck/Task--TEB-team-
 poetry shell
